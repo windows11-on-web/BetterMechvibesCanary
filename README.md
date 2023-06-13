@@ -8,7 +8,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
+Top Notes : This was made by NotKaty The AI Bot in our discord server [https://discord.gg/MVJyRkY2En]
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -16,25 +16,12 @@
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/PyroCalzone/MechVibesPlusPlus>
-    <img src="src/assets/icon.png" alt="Logo" width="80" height="80">
-  </a>
-</div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -67,7 +54,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](src/assets/app_image.png)
 
-Mechvibes++ brings mouse sounds, key up-and-down sounds, and randomized sounds to Mechvibes.
+Better Mechvibes Canary brings more things to mechvibes NOTE : THIS IS A MOD
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +71,7 @@ Mechvibes++ brings mouse sounds, key up-and-down sounds, and randomized sounds t
 
 ### Prerequisites
 
-If Mechvibes++ loads normally without any issues, please skip this.
+If Better Mechvibes Canary loads normally without any issues, please skip this.
 
 Download [VC Redist 2015-2019](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
@@ -105,7 +92,7 @@ Run the [executable](https://github.com/PyroCalzone/MechVibesPlusPlus/releases) 
 
 Read the [issues list](issues.md) here
 
-Please [join our discord](https://discord.gg/CZ8Qgth2SW) if you need additional help (read the list first)
+Please [join our discord] [https://discord.gg/MVJyRkY2En] if you need additional help (read the list first)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -135,20 +122,3 @@ If you own a Mac or run Linux, you can create a build yourself. Instructions are
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/PyroCalzone/MechVibesPlusPlus.svg?style=for-the-badge
-[contributors-url]: https://github.com/PyroCalzone/MechVibesPlusPlus/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PyroCalzone/MechVibesPlusPlus.svg?style=for-the-badge
-[forks-url]: https://github.com/PyroCalzone/MechVibesPlusPlus/network/members
-[stars-shield]: https://img.shields.io/github/stars/PyroCalzone/MechVibesPlusPlus.svg?style=for-the-badge
-[stars-url]: https://github.com/PyroCalzone/MechVibesPlusPlus/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PyroCalzone/MechVibesPlusPlus.svg?style=for-the-badge
-[issues-url]: https://github.com/PyroCalzone/MechVibesPlusPlus/issues
-[license-shield]: https://img.shields.io/github/license/PyroCalzone/MechVibesPlusPlus.svg?style=for-the-badge
-[license-url]: https://github.com/PyroCalzone/MechVibesPlusPlus/blob/main/LICENSE
-[product-screenshot]: src/assets/app_image.png
-[Nodejs]: https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs
-[Nodejs-url]: https://nodejs.org/
-[Electron]: https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron
-[Electron-url]: https://www.electronjs.org/
