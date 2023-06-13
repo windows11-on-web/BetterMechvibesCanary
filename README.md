@@ -96,7 +96,7 @@ Please [join our discord] [https://discord.gg/MVJyRkY2En] if you need additional
 
 Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make Mechvibes++ better, please fork the repo and create a pull request. 
+If you have a suggestion that Better Mechvibes Canary would make it better sand it to me at discord, please fork the repo and create a pull request. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
